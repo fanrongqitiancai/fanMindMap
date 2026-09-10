@@ -12,3 +12,5 @@
 使用方法是：在代码块添加fanmap。
 ![代码块](https://github.com/fanrongqitiancai/fanMindMap/blob/main/Snipaste_2026-09-10_10-41-39.png)
 
+第二版的UI
+![第二版的UI](https://github.com/fanrongqitiancai/fanMindMap/blob/main/Snipaste_2026-09-10_10-32-08.png)
